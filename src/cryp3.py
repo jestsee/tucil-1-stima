@@ -1,4 +1,4 @@
-#Nama       :   Jesica
+#Nama       :   HJesica
 #NIM        :   13519011
 #Kelas      :   01
 #Nama file  :   cryp3.py
@@ -144,4 +144,4 @@ else:
     if not solved:
         print("\nTidak ada solusi")
 
-    print("Total waktu yang dibutuhkan",time.perf_counter() - start_time, "detik")
+    print("Total waktu yang dibutuhkan","%.2f"%(time.perf_counter() - start_time), "detik")
