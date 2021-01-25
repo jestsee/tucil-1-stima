@@ -29,7 +29,7 @@ def solve(huruf, angka, visited, words):
             # menangani kasus ketika huruf pertama setiap kata bernilai 0
                 return
         solve.counter += 1
-
+        
         #inisialisasi
         wordi = [0 for i in range (len(words))]
         for i in range(len(words)):
