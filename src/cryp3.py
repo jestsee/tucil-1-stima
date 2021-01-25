@@ -1,4 +1,4 @@
-#Nama       :   HJesica
+#Nama       :   Jesica
 #NIM        :   13519011
 #Kelas      :   01
 #Nama file  :   cryp3.py
