@@ -1,16 +1,17 @@
 # tucil-1-stima
 Cryptartihmetic Solver - Tugas Kecil 1 Strategi Algoritma IF2211
 
-## Requirement & Installation
+## requirement & installation
 - [Python 3.5+](https://www.python.org/) dan [Pip](https://pypi.org/project/pip/)
-- Use `pip` to install following packages:
-    - [`Regex`](https://pypi.org/project/regex/)
-    - [`Times`](https://pypi.org/project/times/)
+- [`Regex`](https://pypi.org/project/regex/)
+```bash
+$ pip install regex
+```
     
-## Running
+## running
 Go to src folder and run the command below
 ```bash
 $ python cryp3.py
 ```
-## Author
+## author
 13519011 Jesica
